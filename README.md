@@ -2,7 +2,7 @@
     <img width="750" src="https://i.postimg.cc/HLKB71TX/claudemods-Arch-Iso-Creator-2-5-2025-1.png" alt="logo">
 </p>
 <p align="center">
-	 <img width="750" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
+	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 	</p>
 <div align="center">
 
@@ -32,7 +32,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Hello, welcome to claudemods Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
+Hello, welcome to Apex Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 
