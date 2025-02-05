@@ -31,6 +31,7 @@
 
 <div align="center">
 Hello, welcome to claudemods Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
+	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 
 more info on releases
