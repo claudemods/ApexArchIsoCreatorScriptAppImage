@@ -2,7 +2,7 @@
     <img width="750" src="https://i.postimg.cc/HLKB71TX/claudemods-Arch-Iso-Creator-2-5-2025-1.png" alt="logo">
 </p>
 <p align="center">
-https://i.postimg.cc/c4VPgzBp/Apex-Browser.png
+	 <img width="750" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 	</p>
 <div align="center">
 
