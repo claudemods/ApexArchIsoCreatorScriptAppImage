@@ -30,18 +30,11 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Hello, welcome to claudemods Multi ISO Creator v1.06.1 Beta Demo build 26-01-2025 Written in Cpp,
+Hello, welcome to claudemods Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 
 more info on releases
 
-
-
-![2025-01-26-044839_hyprshot](https://github.com/user-attachments/assets/c66484eb-7b6c-4c81-b2a2-0dbe641c6e14)
-
-
-
-https://github.com/user-attachments/assets/d7f1c250-49ff-47ae-b599-7f4f3d19a051
 
 
 
