@@ -33,7 +33,7 @@
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
 
 <div align="center">
-Hello, welcome to Apex Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
+Apex Arch ISO Creator AppImage v2.0 Beta build 26-01-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
