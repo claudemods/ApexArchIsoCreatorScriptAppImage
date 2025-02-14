@@ -4,7 +4,6 @@
 <p align="center">
 	 <img width="150" src="https://i.postimg.cc/c4VPgzBp/Apex-Browser.png" alt="logo">
 	<img width="150" src="https://i.postimg.cc/cHj9PDT7/burn.png" alt="logo">
-	<img width="150" src="https://i.postimg.cc/630QLd46/customdistro.jpg" alt="logo">
 	</p>
 <div align="center">
 
