@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/?color=FFD700&label=Latest%20Release&style=for-the-badge)]()
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorScriptAppImage/?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage/releases/tag/v1.0-Build-14-02-2025)
 
 
 </div>
