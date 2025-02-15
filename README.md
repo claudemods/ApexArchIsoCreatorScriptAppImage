@@ -60,9 +60,10 @@ more info on releases
 
 </div>
 
-![2025-02-14-042935_hyprshot](https://github.com/user-attachments/assets/4ad75862-fca1-469d-b974-2eb7196d4dbe)
-![2025-02-14-042950_hyprshot](https://github.com/user-attachments/assets/4d461909-6dc0-44b3-bf86-0a5b0b59f4fa)
-![2025-02-14-043012_hyprshot](https://github.com/user-attachments/assets/13801eb5-40c0-4c3b-9067-1ca79aae9f97)
+![2025-02-15-041841_hyprshot](https://github.com/user-attachments/assets/905e6eda-7e53-4908-aaf9-28646b83c6ce)
+![2025-02-15-041856_hyprshot](https://github.com/user-attachments/assets/e9fcf79a-e231-4a7e-9ff4-69b0e45c485d)
+![2025-02-15-041910_hyprshot](https://github.com/user-attachments/assets/c9833da1-b087-44f4-bcc8-44bb16fccddf)
+
 
 
 
