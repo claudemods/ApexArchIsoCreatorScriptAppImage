@@ -1,0 +1,22 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment[en_GB]=
+Comment=
+Comment[en_US]=
+Exec=apexisocreatorscript
+GenericName[en_GB]=ApexIsoCreator
+GenericName=ApexIsoCreator
+GenericName[en_US]=ApexIsoCreator
+Icon=burn
+MimeType=
+Name[en_GB]=ApexIsoCreator
+Name=ApexIsoCreator
+Name[en_US]=ApexIsoCreator
+Path=/usr/bin
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=false
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility;
