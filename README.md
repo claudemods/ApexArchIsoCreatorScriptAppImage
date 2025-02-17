@@ -27,17 +27,8 @@
 
 </div>
 
-
-## [ Support Me ](https://www.paypal.com/paypalme/claudemods?country.x=GB&locale)
-
-
-</div>
 <div align="center">
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=claudemods&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/claudemods)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
-
-<div align="center">
 <img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 
 
@@ -56,13 +47,6 @@ more info on releases
 
 
 
-<div align="center">
-
-<h2 align="center"> Connect With Me On Social </h2>
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
 
 
 </div>
@@ -76,5 +60,28 @@ more info on releases
 ![2025-02-15-041910_hyprshot](https://github.com/user-attachments/assets/c9833da1-b087-44f4-bcc8-44bb16fccddf)
 
 
+<div align="center">
+
+
+## [ Support Me ](https://www.paypal.com/paypalme/claudemods?country.x=GB&locale)
+
+
+</div>
+<div align="center">
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=claudemods&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/claudemods)
+[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
+
+<div align="center">
+
+
+
+<div align="center">
+
+<h2 align="center"> Connect With Me On Social </h2>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
 
 
