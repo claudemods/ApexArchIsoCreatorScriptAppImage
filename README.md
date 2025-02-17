@@ -7,7 +7,7 @@
 	</p>
 <div align="center">
 
-<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
+
 
 
 <div align="center">
@@ -36,6 +36,10 @@
 
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&label=claudemods&color=3399FF&Linux&logo=ko-fi&logoColor=white)](https://ko-fi.com/claudemods)
 [![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&label=claudemods&color=A836FF&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/claudemods)</div>
+
+<div align="center">
+<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
+
 
 <div align="center">
 Apex Arch ISO Creator AppImage v1.0 Beta build 14-02-2025 Written in Cpp,
