@@ -8,6 +8,9 @@
 <div align="center">
 
 
+<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
+
+
 
 
 <div align="center">
@@ -26,10 +29,6 @@
 
 
 </div>
-
-<div align="center">
-
-<img width="150" src="https://i.postimg.cc/d0xJp0HW/pirate-ship.png" alt="logo">
 
 
 <div align="center">
