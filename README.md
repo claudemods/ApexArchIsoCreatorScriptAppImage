@@ -37,7 +37,7 @@ Apex Arch ISO Creator AppImage v1.0 Beta build 14-02-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
-i wouldnt be sailing if the code was forkable so no their will be no .cpp .pro or other forkable files in this repo
+i wouldnt be sailing if the code was forkable so no there will be no .cpp .pro or other forkable files in this repo
 <div align="center">
 Clone Your Arch System At Ease
 <div align="center">
