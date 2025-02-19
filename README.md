@@ -32,7 +32,7 @@
 
 
 <div align="center">
-Apex Arch ISO Creator AppImage v1.0 Beta build 15-02-2025 Written in Cpp,
+AppImage v1.0 Beta build 15-02-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
