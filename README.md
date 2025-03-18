@@ -32,7 +32,7 @@
 
 
 <div align="center">
-AppImage v1.0 Beta build 15-02-2025 Written in Cpp,
+AppImage v1.0 Beta build 18-03-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
@@ -54,9 +54,15 @@ more info on releases
 
 </div>
 
-![2025-02-15-041841_hyprshot](https://github.com/user-attachments/assets/905e6eda-7e53-4908-aaf9-28646b83c6ce)
-![2025-02-15-041856_hyprshot](https://github.com/user-attachments/assets/e9fcf79a-e231-4a7e-9ff4-69b0e45c485d)
-![2025-02-15-041910_hyprshot](https://github.com/user-attachments/assets/c9833da1-b087-44f4-bcc8-44bb16fccddf)
+![Main Screen](https://github.com/user-attachments/assets/cf717dda-7cea-4d9c-b97d-241d954acd66)
+![Guide](https://github.com/user-attachments/assets/1a371004-b4ea-4df3-be0a-fc8add4582ca)
+![Setup Scripts](https://github.com/user-attachments/assets/0880f853-4ca5-4d63-8dfe-0509d4fc3f2d)
+![Edit Configs](https://github.com/user-attachments/assets/4a7dfc0c-d611-4e1e-a824-b3c8d63f7b1c)
+![Other Tools](https://github.com/user-attachments/assets/d6a9a5d3-b18b-44f4-a28f-6bfa46d7497a)
+
+
+
+
 
 
 <div align="center">
