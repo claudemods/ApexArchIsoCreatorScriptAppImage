@@ -25,14 +25,14 @@
 
 <div align="center">
 
-[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorScriptAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage/releases/tag/v1.01)
+[![Version](https://img.shields.io/github/v/release/claudemods/ApexArchIsoCreatorScriptAppImage?color=FFD700&label=Latest%20Release&style=for-the-badge)](https://github.com/claudemods/ApexArchIsoCreatorScriptAppImage/releases/tag/v1.02)
 
 
 </div>
 
 
 <div align="center">
-AppImage v1.01 Beta build 18-03-2025 Written in Cpp,
+AppImage v1.02 Beta build 19-03-2025 Written in Cpp,
 	<div align="center">
 Sailing the 7 seas like Penguin's Eggs Remastersys, Refracta, Systemback and father Knoppix!
 <div align="center">
