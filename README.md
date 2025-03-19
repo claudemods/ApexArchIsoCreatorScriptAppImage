@@ -54,11 +54,13 @@ more info on releases
 
 </div>
 
+
 ![Main Screen](https://github.com/user-attachments/assets/a5f4b818-8d7d-469a-96dd-1f110feab656)
 ![Guide](https://github.com/user-attachments/assets/1a371004-b4ea-4df3-be0a-fc8add4582ca)
 ![Setup Scripts](https://github.com/user-attachments/assets/13647196-88e1-4491-8e87-c91ce150c226)
 ![Edit Configs](https://github.com/user-attachments/assets/4a7dfc0c-d611-4e1e-a824-b3c8d63f7b1c)
 ![Other Tools](https://github.com/user-attachments/assets/3695779a-8b29-47ed-b10d-8e8d6ef7b36e)
+![Boot Artwork](https://github.com/user-attachments/assets/9689c811-776e-4220-b883-6d7f218084ac)
 
 
 
