@@ -40,7 +40,9 @@ i wouldnt be sailing if the code was forkable so no there will be no .cpp .pro o
 <div align="center">
 Clone Your Arch System At Ease
 <div align="center">
-more info on releases
+changelogs on github release page
+
+## Download From Aur with package name apexisocreatorscript
 
 
 
