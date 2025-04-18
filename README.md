@@ -43,6 +43,7 @@ Clone Your Arch System At Ease
 changelogs on github release page
 
 ## Download From Aur with package name apexisocreatorscript
+https://aur.archlinux.org/packages/apexisocreatorscript
 
 
 
